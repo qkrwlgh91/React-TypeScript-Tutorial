@@ -5,6 +5,8 @@
 3. Trivia DB
 4. styled-components library - npm i styled-components @types/styled-components
 5. typescript redux - yarn add --dev @types/react-redux
+6. background - unsplash.com/@reallynattu
+7. font : Catamaran - https://fonts.google.com/specimen/Catamaran?query=catamar
 
 
 
