@@ -1,3 +1,13 @@
+### Used Tool
+
+1. React
+2. Typescript
+3. Trivia DB
+4. styled-components library - npm i styled-components @types/styled-components
+5. typescript redux - yarn add --dev @types/react-redux
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
